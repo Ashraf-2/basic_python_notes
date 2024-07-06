@@ -43,4 +43,4 @@ Here are some practice problems included in this repository:
 
 To use the code and notes in this repository, simply clone the repository to your local machine:
 
-Linked: Ashraful Hasan Noyon (https://www.linkedin.com/in/ashraful-hasan-noyon-a482591b3/)
+LinkedIn: Ashraful Hasan Noyon (https://www.linkedin.com/in/ashraful-hasan-noyon-a482591b3/)
