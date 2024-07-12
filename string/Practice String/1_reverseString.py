@@ -16,6 +16,8 @@ text = "beng"
 
 # Reverse the string using slicing
 reversed_text = text[::-1]
+# text2 = text[2::-1]
+# print("text2: ",text2)
 
 # Print the reversed string
 print("Reversed text:", reversed_text)
