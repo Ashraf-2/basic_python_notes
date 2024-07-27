@@ -17,7 +17,7 @@ print(c)    # output: 8.0
 d = math.ceil(23.231)       # round a number upward toward a nearest integer
 print(d)        # 24
 
-e = math.floor(39.9)       #  round a number downward toward a nearest integer
+e = math.floor(39.9   )       #  round a number downward toward a nearest integer
 print(e)        # output: 39
 
 pi = math.pi        # pi number = 3.14159...
