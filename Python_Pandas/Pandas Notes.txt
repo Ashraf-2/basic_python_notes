@@ -1,0 +1,6 @@
+Pandas Dataframe
+
+loc and iloc used for to filter data from a specific range of raws and columns.loc use the label of raws and columns.
+loc syntex : coffee_data.loc[#raws, #colums]
+
+but iloc does not use specific label of any raws or columns. Insted of this, iloc uses the index number of columns and raws.

@@ -1,0 +1,15 @@
+,Day,Coffee Type,Units Sold
+0,Monday,Espresso,25
+1,Monday,Cappuccino,15
+2,Tuesday,Espresso,50
+3,Tuesday,Latte,50
+4,Wednesday,Espresso,35
+5,Wednesday,Latte,25
+6,Thursday,Espresso,40
+7,Thursday,Cappuccino,30
+8,Friday,Cappuccino,45
+9,Friday,Latte,35
+10,Saturday,Espresso,45
+11,Saturday,Latte,35
+12,Sunday,Espresso,45
+13,Sunday,Latte,35
