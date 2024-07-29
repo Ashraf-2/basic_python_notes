@@ -1,21 +1,21 @@
-Athlete_id,Name,Born_Date,Born_Region,Born_Country,NOC,Height_cm,Weight_kg,Playing_Field,First_Name,Born_Date_Time,Born_Year
-1,John Smith,1990-02-15,California,USA,USA,180,75,Cricket,John,1990-02-15,1990
-2,Emily Davis,1992-07-22,Texas,USA,USA,170,65,Football,Emily,1992-07-22,1992
-3,Michael Johnson,1988-10-10,New South Wales,Australia,AUS,185,80,Rugby,Michael,1988-10-10,1988
-4,Sarah Lee,1995-03-30,Ontario,Canada,CAN,168,58,Swimming,Sarah,1995-03-30,1995
-5,David Kim,1991-06-12,Seoul,South Korea,KOR,178,72,Tennis,David,1991-06-12,1991
-6,Alice Brown,1993-11-25,London,UK,GBR,165,55,Basketball,Alice,1993-11-25,1993
-7,Juan Martinez,1989-08-14,Madrid,Spain,ESP,172,68,Baseball,Juan,1989-08-14,1989
-8,Anna Müller,1994-04-18,Bavaria,Germany,GER,175,60,Handball,Anna,1994-04-18,1994
-9,Chen Wei,1990-09-05,Beijing,China,CHN,180,77,Gymnastics,Chen,1990-09-05,1990
-10,Olga Ivanova,1987-01-20,Moscow,Russia,RUS,178,74,Volleyball,Olga,1987-01-20,1987
-11,Tommy Andersson,1996-05-02,Stockholm,Sweden,SWE,182,73,Cycling,Tommy,1996-05-02,1996
-12,Maria Gonzalez,1992-12-11,Lima,Peru,PER,167,59,Hockey,Maria,1992-12-11,1992
-13,Ken Nakamura,1988-07-07,Tokyo,Japan,JPN,173,70,Table Tennis,Ken,1988-07-07,1988
-14,Sophia Rossi,1993-10-17,Rome,Italy,ITA,169,56,Badminton,Sophia,1993-10-17,1993
-15,Lucas Silva,1990-03-09,Rio de Janeiro,Brazil,BRA,177,76,Rowing,Lucas,1990-03-09,1990
-16,Emma White,1994-06-21,Queensland,Australia,AUS,165,53,Sailing,Emma,1994-06-21,1994
-17,Peter O’Connor,1987-11-15,Dublin,Ireland,IRL,181,78,Archery,Peter,1987-11-15,1987
-18,Yara Ahmed,1995-08-30,Cairo,Egypt,EGY,170,64,Fencing,Yara,1995-08-30,1995
-19,Ali Reza,1991-04-22,Tehran,Iran,IRN,176,71,Boxing,Ali,1991-04-22,1991
-20,Nina Petrova,1992-02-28,St. Petersburg,Russia,RUS,174,62,Wrestling,Nina,1992-02-28,1992
+Athlete_id,Name,Born_Date,Born_Region,Born_Country,NOC,Height_cm,Weight_kg,Playing_Field,First_Name,Born_Year
+1,John Smith,1990-02-15,California,USA,USA,180,75,Cricket,John,1990
+2,Emily Davis,1992-07-22,Texas,USA,USA,170,65,Football,Emily,1992
+3,Michael Johnson,1988-10-10,New South Wales,Australia,AUS,185,80,Rugby,Michael,1988
+4,Sarah Lee,1995-03-30,Ontario,Canada,CAN,168,58,Swimming,Sarah,1995
+5,David Kim,1991-06-12,Seoul,South Korea,KOR,178,72,Tennis,David,1991
+6,Alice Brown,1993-11-25,London,UK,GBR,165,55,Basketball,Alice,1993
+7,Juan Martinez,1989-08-14,Madrid,Spain,ESP,172,68,Baseball,Juan,1989
+8,Anna Müller,1994-04-18,Bavaria,Germany,GER,175,60,Handball,Anna,1994
+9,Chen Wei,1990-09-05,Beijing,China,CHN,180,77,Gymnastics,Chen,1990
+10,Olga Ivanova,1987-01-20,Moscow,Russia,RUS,178,74,Volleyball,Olga,1987
+11,Tommy Andersson,1996-05-02,Stockholm,Sweden,SWE,182,73,Cycling,Tommy,1996
+12,Maria Gonzalez,1992-12-11,Lima,Peru,PER,167,59,Hockey,Maria,1992
+13,Ken Nakamura,1988-07-07,Tokyo,Japan,JPN,173,70,Table Tennis,Ken,1988
+14,Sophia Rossi,1993-10-17,Rome,Italy,ITA,169,56,Badminton,Sophia,1993
+15,Lucas Silva,1990-03-09,Rio de Janeiro,Brazil,BRA,177,76,Rowing,Lucas,1990
+16,Emma White,1994-06-21,Queensland,Australia,AUS,165,53,Sailing,Emma,1994
+17,Peter O’Connor,1987-11-15,Dublin,Ireland,IRL,181,78,Archery,Peter,1987
+18,Yara Ahmed,1995-08-30,Cairo,Egypt,EGY,170,64,Fencing,Yara,1995
+19,Ali Reza,1991-04-22,Tehran,Iran,IRN,176,71,Boxing,Ali,1991
+20,Nina Petrova,1992-02-28,St. Petersburg,Russia,RUS,174,62,Wrestling,Nina,1992
